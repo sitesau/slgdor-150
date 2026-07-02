@@ -1,0 +1,84 @@
+{
+  "kicker": "Garage Door Servicing Guide",
+  "h1_tail": "What Homeowners Across Greater Springfield Need to Know",
+  "meta_hook": "Understand garage door repair options, costs and specialist licensing across Springfield Lakes and the Ipswich corridor",
+  "takeaway": "Garage door repairs in the Springfield Lakes area typically cover spring replacement, opener and motor faults, roller door curtain and guide issues, and sectional panel track problems. Most minor repairs fall in the low-to-mid hundreds depending on the fault and parts required. Work is carried out by QBCC-licensed garage door specialists who diagnose the issue on site and provide a written, fixed-price quote before any work begins. Same-day attendance is often available across the Greater Springfield and Ipswich corridor, subject to availability.",
+  "lead_tail": "means knowing what typically goes wrong, what it costs, and how to get a licensed specialist to diagnose and fix it.",
+  "stats": [
+    {"value": "6", "label": "core garage door service types"},
+    {"value": "15+", "label": "suburbs covered across Greater Springfield"},
+    {"value": "Low-mid $100s", "label": "typical minor repair cost range"}
+  ],
+  "sections": [
+    {
+      "h2": "Common garage door faults across Springfield Lakes",
+      "html": "<p>The garage doors found across Springfield Lakes, Brookwater, Augustine Heights and the surrounding Ipswich corridor fall into a handful of common failure modes. Torsion and extension springs fatigue over time and eventually snap, leaving the door stuck open or closed. Automatic openers and motors develop sensor alignment faults, remote pairing issues, and travel-limit drift that causes the door to reverse before closing. Roller doors jump their guides or develop curtain wear from daily use, while sectional panel-lift doors suffer track misalignment, roller wear and cable issues.</p><p>Across these fault types, the repair approach is consistent. A specialist confirms the fault on site, identifies whether a repair or component replacement is needed, and quotes the work in writing before proceeding. For a broader overview of garage door services available across the corridor, this <a href=\"https://pressranger.com/media-rooms/springfield-lakes-garage-doors\">Springfield Lakes garage doors</a> resource covers the service network in detail.</p>"
+    },
+    {
+      "h2": "What garage door repairs cost in the Ipswich area",
+      "html": "<p>Repair costs for garage doors in the Springfield and Ipswich area depend on the fault type and the parts required. A roller or track adjustment costs far less than a torsion spring replacement or a new opener motor. Most minor repairs fall in the low-to-mid hundreds. A specialist provides an upfront written quote after inspecting the door, so the homeowner knows the fixed price before any work commences.</p><p>Factors that influence the cost include the door type (roller, sectional, tilt), the brand (common brands across the corridor include B&amp;D, Steel-Line, Merlin, Centurion, Gliderol and ATA), the availability of replacement parts, and whether the fault requires an emergency same-day callout. No-callout-fee assessment services mean the homeowner can get a diagnosis and quote without an upfront charge.</p>"
+    },
+    {
+      "h2": "Spring repairs: the most common callout",
+      "html": "<p>Torsion spring failure is the single most common reason homeowners across Greater Springfield call for a garage door repair. Springs bear the entire weight of the door and have a finite cycle life. When a torsion spring snaps, the door becomes dangerously heavy and inoperable, often trapping vehicles inside. Extension springs on lighter doors fail similarly.</p><p>Spring replacement requires correct sizing for the door weight, proper winding of the torsion tube, and safety cable installation on extension types. This work should only be performed by a licensed specialist due to the stored energy in the spring assembly. A specialist replaces both springs if they are the same age, as the second is likely to fail soon after the first.</p>"
+    },
+    {
+      "h2": "Opener and motor faults",
+      "html": "<p>Automatic garage door openers across the Springfield corridor commonly develop sensor alignment issues, remote pairing failures, and travel-limit drift. A door that reverses before fully closing usually has misaligned safety sensors, which can be caused by vibration, accidental bumps, or dirt on the sensor lenses. Opener motors from brands such as Merlin, Centurion and ATA have specific diagnostic sequences that a specialist follows to isolate whether the fault is in the motor, the logic board, the remote, or the safety circuit.</p><p>Remote pairing failures often indicate a depleted battery or a desynced code. A specialist can re-pair remotes, replace faulty receivers, and reprogramme travel limits so the door opens and closes to the correct positions. In some cases the entire opener unit needs replacement, which the specialist quotes as a separate job.</p>"
+    },
+    {
+      "h2": "Choosing a specialist across the corridor",
+      "html": "<p>Homeowners across Springfield Lakes, Springfield Central, Brookwater, Redbank Plains, Ripley and Forest Lake have access to garage door specialists through a network that covers the entire Greater Springfield and eastern Ipswich corridor. Specialists work on all common brands and door types, and they carryQBCC licensing appropriate to the trade work being performed.</p><p>When selecting a specialist, homeowners should confirm that the work will be quoted in writing before any parts or labour begin, that the specialist works on the specific door type (roller, sectional or tilt), and that the brand of the door is one the specialist routinely services. The brands most commonly found across the corridor include B&amp;D, Steel-Line, Merlin, Centurion, Gliderol and ATA.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common garage door faults and typical repair approaches",
+    "headers": ["Fault", "Likely cause", "Typical approach"],
+    "rows": [
+      ["Door stuck or very heavy", "Torsion or extension spring snapped", "Spring replacement by licensed specialist"],
+      ["Door reverses before closing", "Misaligned safety sensors or travel-limit drift", "Sensor realignment, travel-limit reprogramming"],
+      ["Roller door grinding or jammed", "Curtain wear or guides out of alignment", "Guide adjustment, curtain repair or replacement"],
+      ["Remote not working", "Depleted battery or desynced code", "Battery replacement, remote re-pairing"],
+      ["Sectional door uneven", "Cable or track misalignment", "Cable adjustment, track realignment"],
+      ["Opener runs but door does not move", "Stripped gear or disconnected carriage", "Gear or carriage component replacement"]
+    ]
+  },
+  "howto": [
+    {"name": "Identify the fault type", "text": "Note what the door is doing: stuck shut, reversing, grinding, remote not responding, or uneven movement. This helps the specialist prepare before arriving."},
+    {"name": "Check for safety risks", "text": "If a spring has snapped or the door is sagging, keep people and vehicles clear. Do not attempt to force the door open or closed."},
+    {"name": "Submit an enquiry", "text": "Provide your suburb and a description of the fault. A specialist from the network covering your area confirms the fault on site."},
+    {"name": "Get a written quote", "text": "The specialist inspects the door, diagnoses the issue, and provides a fixed-price written quote before any work begins."}
+  ],
+  "faq": [
+    {"q": "How much does a garage door repair cost in the Springfield area?", "a": "Most minor garage door repairs across Springfield and Ipswich fall in the low-to-mid hundreds, depending on the fault and parts. A roller or track adjustment costs less than a spring or motor replacement. You receive a written, fixed-price quote before any work starts."},
+    {"q": "Are same-day garage door repairs available in Springfield Lakes?", "a": "Same-day repairs are often available across Springfield Lakes and the surrounding corridor, subject to specialist availability. Submit the form with your suburb and the fault, and the team advises on timing for that day."},
+    {"q": "Which garage door brands do specialists cover?", "a": "Specialists work across the brands common to the corridor, including B&D, Steel-Line, Merlin, Centurion, Gliderol and ATA, so remotes, curtains and parts suit your specific door."}
+  ],
+  "about": [
+    {"name": "Garage door", "sameAs": "https://en.wikipedia.org/wiki/Garage_door"},
+    {"name": "Home improvement", "sameAs": "https://en.wikipedia.org/wiki/Home_improvement"},
+    {"name": "General contractor", "sameAs": "https://en.wikipedia.org/wiki/General_contractor"}
+  ],
+  "mentions": [
+    {"name": "Building code", "sameAs": "https://en.wikipedia.org/wiki/Building_code"},
+    {"name": "Tradesperson", "sameAs": "https://en.wikipedia.org/wiki/Tradesperson"}
+  ],
+  "authorities": [
+    {"name": "Housing Industry Association", "url": "https://hia.com.au"},
+    {"name": "Master Builders Australia", "url": "https://www.masterbuilders.com.au"},
+    {"name": "ASIC Moneysmart: Renovating", "url": "https://moneysmart.gov.au"}
+  ],
+  "claims": [
+    {"claim": "Common garage door faults include spring failure, opener faults, roller door guide issues and sectional track problems", "source": "money page"},
+    {"claim": "Most minor garage door repairs fall in the low-to-mid hundreds", "source": "money page"},
+    {"claim": "Specialists provide a written, fixed-price quote before any work begins", "source": "money page"},
+    {"claim": "Same-day attendance is often available subject to availability", "source": "money page"},
+    {"claim": "Services cover Springfield Lakes, Brookwater, Augustine Heights, Redbank Plains, Ripley and Forest Lake", "source": "money page"},
+    {"claim": "Common brands include B&D, Steel-Line, Merlin, Centurion, Gliderol and ATA", "source": "money page"},
+    {"claim": "Specialists are QBCC-licensed", "source": "money page"},
+    {"claim": "Torsion spring replacement requires correct sizing and proper winding", "source": "https://en.wikipedia.org/wiki/Garage_door"},
+    {"claim": "Opener sensor misalignment causes door reversal before closing", "source": "money page"},
+    {"claim": "No callout fee for the assessment", "source": "money page"}
+  ],
+  "scope": "This guide covers common garage door faults, repair costs, spring and opener issues, and how to choose a specialist across the Greater Springfield and Ipswich corridor."
+}

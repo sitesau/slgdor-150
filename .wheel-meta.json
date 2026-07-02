@@ -1,0 +1,16 @@
+{
+  "wheel_id": 0,
+  "slug": "slgdor-150",
+  "project": "garage-door-repairs-springfield-lakes-guide",
+  "parent_t1_ref": "springfield-lakes-garage-doors-mr",
+  "money_target": "https://www.springfieldlakesgaragedoors.com.au/",
+  "primary_kw": "garage door repairs springfield lakes",
+  "intended_url": "https://garage-door-repairs-springfield-lakes-guide.netlify.app",
+  "links": [
+    {
+      "target_url": "https://pressranger.com/media-rooms/springfield-lakes-garage-doors",
+      "anchor": "Springfield Lakes garage doors",
+      "rel": "follow"
+    }
+  ]
+}
